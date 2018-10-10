@@ -1,6 +1,8 @@
-# be_cool_webview
+# いい感じなWebView
 
-Cool WebView
+いい感じポイント
+* 前のページに戻ることができる
+* ローディング中ということがわかりやすい
 
 ## Getting Started
 
